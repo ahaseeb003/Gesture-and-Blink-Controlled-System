@@ -1,0 +1,7 @@
+opencv-python
+mediapipe
+pycaw
+screen_brightness_control
+selenium
+webdriver_manager
+
