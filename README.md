@@ -1,5 +1,5 @@
 # Gesture and Blink Controlled System
-![71oo70ExnJL _AC_SX679_](https://github.com/user-attachments/assets/d2ced40d-0aab-4318-a05c-a3b2bfa1dcf6)
+
 
 ## Overview
 This project utilizes Python, OpenCV, and MediaPipe to create an interactive system that responds to facial blinks and hand gestures. It allows users to control laptop volume and brightness with hand movements and automatically opens/closes YouTube to play music upon detecting a double blink.
