@@ -24,7 +24,7 @@ This project utilizes Python, OpenCV, and MediaPipe to create an interactive sys
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your_username/gesture-blink-control.git
+git clone https://github.com/ahaseeb003/Gesture-and-Blink-Controlled-System.git
 cd gesture-blink-control
 ```
 
